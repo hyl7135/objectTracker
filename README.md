@@ -13,3 +13,4 @@ sample 파일에 동영상을 yolov4_weights파일에 가중치와 설정값을 
 ## 실행화면
 
 
+![추적 2](https://user-images.githubusercontent.com/58650028/223324164-671719ea-d958-4eeb-b1af-dfe2ecd9c1ae.png)
